@@ -203,14 +203,14 @@ h5 a:hover {
 
 nav .special-button {
   padding: 8px 15px;
-  background-color: #14cf14;
+  background-color: #27a822;
   color: white;
   border-radius: 5px;
   text-decoration: none;
-  margin-left: 20px;
+  margin-left: 15px;
 }
 
 nav .special-button:hover {
-  background-color: #0bc20b;
+  background-color: #267723;
   color: white;
 }
