@@ -200,3 +200,16 @@ h5 a:hover {
   padding: 20px 0;
   text-decoration: none !important;
 }
+
+nav .special-button {
+  padding: 8px 15px;
+  background-color: #14cf14;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+nav .special-button:hover {
+  background-color: #0b3d0b;
+}
